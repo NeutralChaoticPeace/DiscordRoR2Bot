@@ -1,0 +1,15 @@
+PreReq:
+Have emoji permission on server.
+Bots can use custom emojis from any server they are part of.
+
+1. Right click server name.
+2. Click server settings.
+3. Click emoji
+4. Upload images
+
+To get IDs:
+1. Open relevant server
+2. Type :whatever_emoji_added: (don't hit enter)
+3. Prefix above with \
+    \:whatever_emoji_added:
+4. Copy value to code.
